@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Movies-App/static/css/main.eb442279.css",
+    "main.js": "/Movies-App/static/js/main.78e7d3af.js",
+    "static/js/787.6e1697bb.chunk.js": "/Movies-App/static/js/787.6e1697bb.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Movies-App/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/Movies-App/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/Movies-App/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/Movies-App/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/Movies-App/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/fa-regular-400.woff2": "/Movies-App/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Movies-App/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Movies-App/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "static/media/logo.svg": "/Movies-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Movies-App/index.html",
+    "main.eb442279.css.map": "/Movies-App/static/css/main.eb442279.css.map",
+    "main.78e7d3af.js.map": "/Movies-App/static/js/main.78e7d3af.js.map",
+    "787.6e1697bb.chunk.js.map": "/Movies-App/static/js/787.6e1697bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb442279.css",
+    "static/js/main.78e7d3af.js"
+  ]
+}
